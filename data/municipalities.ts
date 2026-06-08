@@ -56,7 +56,7 @@ export const municipalities: Municipality[] = [
     name: 'Toa Baja',
     sectionId: 1,
     notableBarrios: ['Levittown', 'Sabana Seca', 'Palo Seco', 'Media Luna'],
-    geoNote: 'Costa norte al oeste de Cataño; famoso por Levittown.',
+    geoNote: 'Costa norte al oeste de Cataño; famoso por Levittown. Frente a la bahía de San Juan se encuentra la Isla de Cabras.',
   },
   {
     id: 'toa-alta',
@@ -204,7 +204,7 @@ export const municipalities: Municipality[] = [
     name: 'Rincón',
     sectionId: 3,
     notableBarrios: ['Ensenada', 'Puntas', 'Calvache', 'Barrero'],
-    geoNote: 'Punta oeste; capital del surf en Puerto Rico.',
+    geoNote: 'Punta oeste; capital del surf en PR. Frente a su costa está la Isla Desecheo, refugio federal de vida silvestre.',
   },
   {
     id: 'mayaguez',
@@ -212,7 +212,7 @@ export const municipalities: Municipality[] = [
     name: 'Mayagüez',
     sectionId: 3,
     notableBarrios: ['Guanajibo', 'Sábalos', 'Sabanetas', 'Río Cañas'],
-    geoNote: 'Ciudad principal de la costa oeste de PR; "La Sultana del Oeste".',
+    geoNote: 'Ciudad principal de la costa oeste; "La Sultana del Oeste". Bajo su jurisdicción: Isla de Mona e Isla Monito, en el Canal de la Mona.',
   },
 
   // ── Section 4: Oeste y Suroeste ────────────────────────────────────────────
@@ -246,7 +246,7 @@ export const municipalities: Municipality[] = [
     name: 'Lajas',
     sectionId: 4,
     notableBarrios: ['Parguera', 'Lajas Arriba', 'Candelaria', 'Costa'],
-    geoNote: 'Suroeste; famosa por La Parguera y su bahía bioluminiscente.',
+    geoNote: 'Suroeste; famosa por La Parguera, su bahía bioluminiscente y los cayos que la rodean.',
   },
   {
     id: 'cabo-rojo',
@@ -296,7 +296,7 @@ export const municipalities: Municipality[] = [
     name: 'Ponce',
     sectionId: 5,
     notableBarrios: ['Playa', 'Tibes', 'Cerrillos', 'Bucaná', 'Guaraguao'],
-    geoNote: 'Cuarta ciudad de PR por población; "La Perla del Sur", en la costa sur.',
+    geoNote: 'Cuarta ciudad de PR por población; "La Perla del Sur". Frente a su costa sur está la Isla Caja de Muertos, reserva natural.',
   },
   {
     id: 'juana-diaz',
@@ -478,7 +478,7 @@ export const municipalities: Municipality[] = [
     name: 'Fajardo',
     sectionId: 8,
     notableBarrios: ['Cabezas', 'Sardinera', 'Demajagua', 'Quebrada Fajardo'],
-    geoNote: 'Noreste; puerto de embarque hacia Culebra y Vieques.',
+    geoNote: 'Noreste; puerto de embarque hacia Culebra y Vieques. Rodeado de los Cayos de la Cordillera: Palomino, Icacos y otros islotes.',
   },
   {
     id: 'ceiba',
